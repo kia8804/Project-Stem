@@ -1,14 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package wordjumble;
 
 import java.util.Scanner;
-/**
- *
- * @author guest123
- */
+
 public class WordJumble {
 
     public static void permutations(String s, int n, int l)
