@@ -1,2 +1,2 @@
 # Project-Stem
-Solutions to Project Stem and ISC4U coding assignments
+Solutions to Project Stem and ICS4U coding assignments
