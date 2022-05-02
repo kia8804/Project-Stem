@@ -1,4 +1,4 @@
-# Fraction
+# Instructions
 For this assignment, you will create a class which must be named Fraction to store fractions. The class will hold two integer values: a numerator and a denominator. For your class, we will stick to positive fractions, meaning the numerator and the denominator must both be greater than 0. Your Fraction class will also keep track of the number of Fraction objects created by a program. You will need to create appropriate variables to store the information in these fields, all of which should be private.
 
 You will also need to add all of the public constructors and methods which are described below. You may choose to add other methods to help you implement these.
