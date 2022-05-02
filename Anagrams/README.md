@@ -1,3 +1,4 @@
+# Anagrams
 For this assignment you will write code for a class named AnagramList which is used to find possible anagrams of a word. Anagrams are formed by rearranging the letters of a word: for example brainy is an anagram of binary. For the purpose of this assignment anagrams do not have to be words themselves: for example raibyn would also be an anagram of binary.
 
 The AnagramList class has a single member variable which is an ArrayList of strings called anagrams and an accessor method to get this variable. The constructor takes a single parameter word, and should use this to create an ordered list containing every possible rearrangement of the characters from word exactly once. See the sample runs for some examples of this.
