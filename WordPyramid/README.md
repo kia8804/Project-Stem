@@ -1,8 +1,12 @@
-Use the Word Jumble recursive algorithm to write a program to list all of the “word” possibilities from a set of letters input by the user.
+Create a program which will remove the first and last characters of a string. The program should then remove the next set of outside characters. The program continues in this fashion until it has hit the middle character or the middle two characters, completing a Word Pyramid.
 
-Your application could look as follows:
-
-![image5](https://user-images.githubusercontent.com/30180556/166188206-2c7e5a3b-48a1-4c3c-a96d-a38e8ff0c02b.png)
+Your output could look as follows:
 
 
-![image6](https://user-images.githubusercontent.com/30180556/166188208-086a56e7-63e4-44a8-9853-a8606659cd53.png)
+![image7](https://user-images.githubusercontent.com/30180556/166188328-c0349b9b-98b3-4134-b094-62f159c9085e.png)
+
+
+![image8](https://user-images.githubusercontent.com/30180556/166188336-871ada29-af71-4d54-a495-77f7bc36be2f.png)
+
+
+You are expected to create a recursive algorithm to produce your output. There should be a method which calls itself in your program.
